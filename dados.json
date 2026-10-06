@@ -1,0 +1,38 @@
+{
+  "site_settings": [
+    {
+      "id": "site",
+      "is_public": 1
+    }
+  ],
+  "weekly_hours": [],
+  "barber_credentials": [],
+  "bookings": [],
+  "slots": [],
+  "service_settings": [
+    {
+      "id": "barba",
+      "name": "Barba",
+      "price_cents": 2000,
+      "duration": 30
+    },
+    {
+      "id": "combo",
+      "name": "Corte + barba",
+      "price_cents": 4500,
+      "duration": 60
+    },
+    {
+      "id": "corte",
+      "name": "Corte",
+      "price_cents": 2000,
+      "duration": 30
+    },
+    {
+      "id": "svc_a9579d9e-2cd5-4692-803f-17a377632355",
+      "name": "Sombracelha",
+      "price_cents": 1500,
+      "duration": 30
+    }
+  ]
+}
