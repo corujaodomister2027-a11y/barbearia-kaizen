@@ -1,0 +1,1 @@
+export const PIX={key:"82998219544",formatted:"(82) 99821-9544",name:"Victor Junio de lima Barbosa",type:"Telefone"};

@@ -1,0 +1,2 @@
+// Only the eight records explicitly identified by the owner as fictional.
+export const TEST_BOOKING_IDS=["537a9b07-76de-46ca-85d9-5d9b6fd0319b","84d91011-4252-4027-b4e6-dc9e3cb86d0d","a1ccd002-378b-4eba-bf53-f2974810a1bf","e6a9d685-b05b-4977-8c6a-bb00b3fe8f86","ef07e6dd-71a7-444d-8357-b1425f8ef512","f2fcbe44-d2fe-492b-ada6-64d541ed06d4","f3a3eda5-2c9e-4b6b-a4e3-077507cb32be","fc9e7f51-daa9-4f71-b8b1-44cac9739776"];
